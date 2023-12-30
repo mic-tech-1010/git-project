@@ -1,4 +1,4 @@
-Welcome to Myproject
+Welcome to git for beginner Myproject
 
 Author:Adeoye Michael
 twitter: @ayomipo
